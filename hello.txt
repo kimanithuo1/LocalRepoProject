@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello, Git and Github!
+=======
+
+
+Hello, Git and Github!
+>>>>>>> 06ec992 (Add hello.txt with greetings)
